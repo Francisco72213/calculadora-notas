@@ -1,0 +1,31 @@
+{
+    "id": "/appnotas.html",
+    "name": "Calculadora de Notas",
+    "short_name": "Notas",
+    "description": "Calculadora de notas académicas",
+
+    "start_url": "/appnotas.html",
+    "scope": "/",
+
+    "display": "standalone",
+
+    "background_color": "#ffffff",
+    "theme_color": "#006633",
+
+    "orientation": "portrait",
+
+    "icons": [
+        {
+            "src": "/iconos/icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "/iconos/icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any"
+        }
+    ]
+}
