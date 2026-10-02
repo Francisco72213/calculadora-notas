@@ -1,10 +1,10 @@
 {
-    "id": "./appnotas.html",
+    "id": "./index.html",
     "name": "Calculadora de Notas",
     "short_name": "Notas",
     "description": "Calculadora de notas académicas",
 
-    "start_url": "./appnotas.html",
+    "start_url": "./index.html",
     "scope": "./",
 
     "display": "standalone",
